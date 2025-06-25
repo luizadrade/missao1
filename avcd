@@ -1,0 +1,7 @@
+O que o código faz:
+Pede um número para mostrar a tabuada.
+Solicita uma senha ao usuário (tem até 3 tentativas).
+Se a senha estiver correta:
+Mostra as tabuadas de adição, subtração, multiplicação, divisão e fatorial do número.
+Se a senha estiver errada 3 vezes:
+Exibe mensagem de acesso bloqueado.
